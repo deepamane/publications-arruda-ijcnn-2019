@@ -7,7 +7,6 @@ from PIL import Image
 import numpy as np
 import json 
 import sys
-
 images_folder = 'bdd100k_images'
 labels_folder = 'bdd100k_labels'
 
